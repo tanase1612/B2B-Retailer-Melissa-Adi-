@@ -1,0 +1,6 @@
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\bin\Debug\B2BCustomerServiceLibrary.dll.config
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\bin\Debug\B2BCustomerServiceLibrary.dll
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\bin\Debug\B2BCustomerServiceLibrary.pdb
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\obj\Debug\B2BCustomerServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\obj\Debug\B2BCustomerServiceLibrary.dll
+C:\Users\munaki\Documents\Visual Studio 2015\Projects\B2BServiceLibrary\B2BCustomerServiceLibrary\obj\Debug\B2BCustomerServiceLibrary.pdb
